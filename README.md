@@ -1,4 +1,4 @@
-Gifflip is a tool developped using Processing (http://processing.org).
+Gifflip is a tool developed with Processing (http://processing.org).
 
 It turns your animated gifs into flip books.
 
